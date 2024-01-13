@@ -4,11 +4,13 @@
 ### Every lesson is writing in ***Jupyter Notebook*** .
 
 Jupyter site [Jupyter](https://jupyter.org/).
-***Install JupyterLab and Notebook
-> pip install jupyterlab
 
+*Install JupyterLab
+>pip install jupyterlab
+
+* Install JupyterNotebook
 > pip install notebook
 
-Get it from site [Install JupyterLab and Notebook](https://jupyter.org/install)
+Get it from site --> [Install JupyterLab and Notebook](https://jupyter.org/install)
 
-Check out documentation [Jupyter Documentation](https://docs.jupyter.org/en/latest/)
+Check out documentation --> [Jupyter Documentation](https://docs.jupyter.org/en/latest/)
