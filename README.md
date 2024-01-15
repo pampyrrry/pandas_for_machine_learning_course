@@ -1,11 +1,11 @@
 # Pandas For Machine Learning
-## Adress to whole course [Pandas For Machine Learning](https://https://www.youtube.com/playlist?list=PLCC34OHNcOtqSz7Ke7kaYRf9CfviJgO55)
+## Address to whole course [Pandas For Machine Learning](https://https://www.youtube.com/playlist?list=PLCC34OHNcOtqSz7Ke7kaYRf9CfviJgO55)
 
 ### Every lesson is writing in ***Jupyter Notebook*** .
 
 Jupyter site [Jupyter](https://jupyter.org/).
 
-*Install JupyterLab
+* Install JupyterLab
 >pip install jupyterlab
 
 * Install JupyterNotebook
